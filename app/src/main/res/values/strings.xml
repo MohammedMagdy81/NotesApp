@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="notes_app">Notes App</string>
+    <string name="text_description_app">Life is too Fast don\'t forget anything just Note</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_want_to_delete_n_this_note">Are You Want to Delete \n This Note ?</string>
+    <string name="search">Search</string>
+</resources>
